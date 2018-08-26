@@ -27,7 +27,7 @@ ___
 ## Basic Client-Server Chat Program using TCP/IP Socket Programming
 Create a Basic Client-Server Chat program that allows a user on one machine to type in and send text to a user on another
 machine.
-For client side:
+* For client side:
 ```
  gcc client.c -o cli
 ```
@@ -35,7 +35,7 @@ For client side:
  ./cli <host_name> <port_no>
 ```
 
-For server side:
+* For server side:
 ```
  gcc server.c -o ser
 ```
