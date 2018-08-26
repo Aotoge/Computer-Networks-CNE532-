@@ -19,5 +19,5 @@
 
 * Lab assignments:
   + Lab 1:
-  ..+ Implementing Linked List
-  ..+ Basic Client-Server Chat Program using TCP/IP Socket Programming
+    + Implementing Linked List
+    + Basic Client-Server Chat Program using TCP/IP Socket Programming
