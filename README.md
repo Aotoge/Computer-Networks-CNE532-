@@ -3,12 +3,6 @@
 
 <img src="https://img.shields.io/badge/language-C-brightgreen.svg"/>
 
-### Language:
-
-```
- C
-```
-
 ## IIIT-A Computer Networks Course (ICNE 532 C)
 
 ```
