@@ -1,8 +1,8 @@
 # Computer Networks
 ### Kadambari Anuranjana, IIT2016111 - Indian Institue of Information Technology Allahabad
 
-<img src="https://img.shields.io/badge/language-C-brightgreen.svg"/>
-
+![](https://img.shields.io/badge/language-C-brightgreen.svg)
+ 
 ## IIIT-A Computer Networks Course (ICNE 532 C)
 
 ```
@@ -13,5 +13,9 @@
 
 * Lab assignments:
   + Lab 1:
-    + Implementing Linked List
-    + Basic Client-Server Chat Program using TCP/IP Socket Programming
+    + Implementing linked list
+    + Basic client-server chat program using TCP/IP socket programming
+  + Lab 2:
+    + Multi client communication program (single character)
+    + Multi client communication program (structure)
+    + Basic client server directory service
