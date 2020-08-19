@@ -70,7 +70,7 @@ Suppose that the server has the following database:
 
 This can be in a file that is read. The Client is to read a request, which is a numeric address to be sent to the Server. The Server looks up the matching name and sends it back to the Client to be printed out. If the address isn't found, the Server should send back an error message. For example, "Address not found".
 
-* To Create Directory File:
+* To Create Directory File (Optional):
 ```
  gcc make_dir_file.c
  ./a.out
