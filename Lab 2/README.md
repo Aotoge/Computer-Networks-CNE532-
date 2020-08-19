@@ -82,7 +82,7 @@ This can be in a file that is read. The Client is to read a request, which is a 
  ./ser <port_number>
 ```
 
-* For Clients:
+* For Client:
 ```
  gcc client.c -o cli
  ./cli <host_name> <port_number>
