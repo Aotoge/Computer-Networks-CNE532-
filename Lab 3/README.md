@@ -1,4 +1,4 @@
-# Lab 2
+# Lab 3
 ## TCP/IP and UDP Socket Programming - Chat/Transfer
 
 ![](https://img.shields.io/badge/language-C-brightgreen.svg)
