@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/language-C-brightgreen.svg)
 
 ### Contents
-* [Client Server Chat Program](#cscp)
+* [Two-way Client Server Chat Program](#cscp)
 
 ___
 
