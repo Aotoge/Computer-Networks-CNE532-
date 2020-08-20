@@ -15,13 +15,13 @@ Write a client-server program that provides chat facility. Your application allo
 * For Server:
 ```
  gcc server.c -o ser
- ./ser <port_number>
+ ./ser
 ```
 
 * For Client:
 ```
  gcc client.c -o cli
- ./cli <host_name> <port_1>
+ ./cli
 ```
 
 ___
