@@ -19,3 +19,5 @@
     + Multi client communication program (single character)
     + Multi client communication program (structure)
     + Basic client server directory service
+  + Lab 3:
+    + Two way Client Server Chat Program
