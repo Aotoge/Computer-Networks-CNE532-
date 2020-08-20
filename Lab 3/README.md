@@ -9,7 +9,7 @@
 ___
 
 <a name="cscp"></a>
-## Client Server Chat Program
+## Two-way Client Server Chat Program
 Write a client-server program that provides chat facility. Your application allows a user on one machine to type in and send text to a user on another machine. Your application should provide non blocking chat facility to the users.
 
 * For Server:
