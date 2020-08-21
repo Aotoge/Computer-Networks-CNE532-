@@ -21,4 +21,4 @@
     + Basic client server directory service
   + Lab 3:
     + Two way client server chat program
-    + Client server file transfer program
+    + Client server file transfer program (Using DGRAM Socket)
