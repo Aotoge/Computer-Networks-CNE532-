@@ -5,7 +5,7 @@
 
 ### Contents
 * [Two-way Client Server Chat Program](#cscp)
-* [Client Server File Transfer Program](#csftp)
+* [Client Server File Transfer Program (Using DGRAM Socket)](#csftp)
 
 ___
 
@@ -28,8 +28,8 @@ Write a client-server program that provides chat facility. Your application allo
 ___
 
 <a name="csftp"></a>
-## Client Server File Transfer Program
-Write a server program, which can provide facility of file transfer to the clients. Server should be able to support any number of clients simultaneously.
+## Client Server File Transfer Program (Using DGRAM Socket)
+Write a server program, which can provide facility of file transfer to the clients. Server should be able to support any number of clients simultaneously. Implement using DGRAM Socket.
 
 * For Server:
 ```
