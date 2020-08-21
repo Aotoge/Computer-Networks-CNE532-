@@ -20,4 +20,5 @@
     + Multi client communication program (structure)
     + Basic client server directory service
   + Lab 3:
-    + Two way Client Server Chat Program
+    + Two way client server chat program
+    + Client server file transfer program

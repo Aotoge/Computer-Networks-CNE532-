@@ -5,6 +5,7 @@
 
 ### Contents
 * [Two-way Client Server Chat Program](#cscp)
+* [Client Server File Transfer Program](#csftp)
 
 ___
 
@@ -25,3 +26,23 @@ Write a client-server program that provides chat facility. Your application allo
 ```
 
 ___
+
+<a name="csftp"></a>
+## Client Server File Transfer Program
+Write a server program, which can provide facility of file transfer to the clients. Server should be able to support any number of clients simultaneously.
+
+* For Server:
+```
+ gcc server.c -o ser
+ ./ser
+```
+
+* For Client:
+```
+ gcc client.c -o cli
+ ./cli
+```
+
+___
+
+
