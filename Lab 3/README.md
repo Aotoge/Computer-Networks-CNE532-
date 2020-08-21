@@ -5,7 +5,7 @@
 
 ### Contents
 * [Two-way Client Server Chat Program](#cscp)
-* [Client Server File Transfer Program](#csftp)
+* [Client Server File Transfer Program (Using DGRAM Socket)](#csftp)
 
 ___
 
