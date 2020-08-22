@@ -1,12 +1,11 @@
 # Computer Networks
-### Kadambari Anuranjana, IIT2016111 - Indian Institue of Information Technology Allahabad
+### Indian Institue of Information Technology Allahabad
 
 ![](https://img.shields.io/badge/language-C-brightgreen.svg)
  
 ## IIIT-A Computer Networks Course (ICNE 532 C)
 
 ```
- University   : Indian Institute of Information Technology, Allahabad
  Course code  :	ICNE 532 C
  Semester     :	5
 ```
