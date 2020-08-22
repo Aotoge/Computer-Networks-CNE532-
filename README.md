@@ -1,14 +1,14 @@
 # Computer Networks
 ### Indian Institue of Information Technology Allahabad
 
-![](https://img.shields.io/badge/language-C-brightgreen.svg)
- 
-## IIIT-A Computer Networks Course Lab Assignments
-
 ```
- Course code  :	ICNE 532 C
+ Course code  :	ICNE532C
  Semester     :	5
 ```
+
+![](https://img.shields.io/badge/language-C-brightgreen.svg)
+ 
+## Lab Assignments
 
 * Lab assignments:
   + Lab 1:
