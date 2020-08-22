@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/language-C-brightgreen.svg)
  
-## Lab Assignments
+## Index
 
 * Lab assignments:
   + Lab 1:
