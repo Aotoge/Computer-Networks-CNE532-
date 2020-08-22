@@ -3,7 +3,7 @@
 
 ![](https://img.shields.io/badge/language-C-brightgreen.svg)
  
-## IIIT-A Computer Networks Course (ICNE 532 C)
+## IIIT-A Computer Networks Course Lab Assignments
 
 ```
  Course code  :	ICNE 532 C
