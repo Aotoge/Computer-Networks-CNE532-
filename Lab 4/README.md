@@ -72,7 +72,7 @@ Write a concurrent server program, which can provide facility of file transfer t
  ./ser
 ```
 
-* For Client:
+* For Clients:
 ```
  gcc client.c -o cli
  ./cli
