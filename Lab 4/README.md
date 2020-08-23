@@ -47,4 +47,17 @@ ___
 ## Protocol Based Client Server File Transfer Program
 
 Write a client server application in which client request a file to server and server send requested file to client. Design a suitable protocol for message exchange as above, so that client and server can communicate efficiently and server can ask different option to the client.
+
+* For Server:
+```
+ gcc server.c -o ser
+ ./ser
+```
+
+* For Client:
+```
+ gcc client.c -o cli
+ ./cli
+```
 ___
+
