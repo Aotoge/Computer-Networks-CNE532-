@@ -5,6 +5,7 @@
 
 ### Contents
 * [Two-way Client Server Chat Program](#cscp)
+* [Client Server File Transfer Program (Using STREAM Socket)](#csftp1)
 * [Client Server File Transfer Program (Using DGRAM Socket)](#csftp)
 
 ___
@@ -12,6 +13,24 @@ ___
 <a name="cscp"></a>
 ## Two-way Client Server Chat Program
 Write a client-server program that provides chat facility. Your application allows a user on one machine to type in and send text to a user on another machine. Your application should provide non blocking chat facility to the users.
+
+* For Server:
+```
+ gcc server.c -o ser
+ ./ser
+```
+
+* For Client:
+```
+ gcc client.c -o cli
+ ./cli
+```
+
+___
+
+<a name="csftp1"></a>
+## Client Server File Transfer Program (Using STREAM Socket)
+Write a server program, which can provide facility of file transfer to the clients. Server should be able to support any number of clients simultaneously. Implement using STREAM Socket.
 
 * For Server:
 ```

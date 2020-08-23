@@ -20,6 +20,7 @@
     + Basic client server directory service
   + Lab 3:
     + Two way client server chat program
+    + Client server file transfer program (Using STREAM Socket)
     + Client server file transfer program (Using DGRAM Socket)
   + Lab 4:
     + Protocol Based Client Server Communication Program
