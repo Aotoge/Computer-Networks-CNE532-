@@ -1,12 +1,12 @@
 # Lab 4
-## Self Specified Protocol Based Programming
+## Protocol Based & Concurrent Socket Programming
 
 ![](https://img.shields.io/badge/language-C-brightgreen.svg)
 
 ### Contents
 * [Protocol Based Client Server Communication Program](#cscp)
 * [Protocol Based Client Server File Transfer Program](#csftp)
-
+* [Concurrent File Transfer Program](#concftp)
 ___
 
 <a name="cscp"></a>
@@ -60,4 +60,23 @@ Write a client server application in which client request a file to server and s
  ./cli
 ```
 ___
+
+<a name="concftp"></a>
+## Concurrent Client Server File Transfer Program
+
+Write a concurrent server program, which can provide facility of file transfer to the clients. Server should be able to support many number of clients simultaneously. (Hint: Use fork() system call).
+
+* For Server:
+```
+ gcc server.c -o ser
+ ./ser
+```
+
+* For Client:
+```
+ gcc client.c -o cli
+ ./cli
+```
+___
+
 
